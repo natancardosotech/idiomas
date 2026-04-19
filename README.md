@@ -9,7 +9,7 @@
 - JavaScript
 
 ## 📸 Preview
-Coloque um print do projeto aqui
+<img src= " https://raw.githubusercontent.com/natancardosotech/idiomas/69dc16ca65944a1a96673ca7e91f7541dee4bf0d/assets/imagem.png "  />
 
 ## 💻 Como rodar
 1. Clone o repo: `git clone https://github.com/natancardosotech/idiomas`
